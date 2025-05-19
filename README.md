@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a Computer Science student at PES University, Bengalur
 ## 📚 Notable Projects
 
 - **Divide and Compute**: Distributed deep learning model offloading using gRPC and Docker on Raspberry Pi.
-- **AI Attendance System**: Face recognition-based attendance with role-based SQL backend and Twilio integration.
+- **Attendance System**: Face recognition-based attendance with role-based SQL backend and Twilio integration.
 - **My Backup**: Automated backup solution with Google Drive API, Docker, and Kubernetes CronJobs.
 - **Secure Terminal Manager**: Multi-client TCP server for remote system monitoring with startup and root access.
 - **Other Projects**: Intruder Detection (Arduino), Drone Simulation for Disaster Management, Chowka Bara game.
