@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a Computer Science student at PES University, Bengalur
 
 - 🎓 **Education**: B.Tech in Computer Science and Engineering (2021–2025) — CGPA: 9.00
 - 💼 **Current Role**: Cloud DBA Intern @ Netradyne Technology India Pvt Ltd
-- 🧠 **Interests**: Distributed systems, database internals, system design, and automation
+- 🧠 **Interests**: Development, Distributed systems, database internals, system design, and automation
 - 🛠️ **Tech Stack**:
   - **Languages**: Python, C, Java (OOP)
   - **Databases**: PostgreSQL, MySQL, Cassandra, MongoDB, RDS, Snowflake
